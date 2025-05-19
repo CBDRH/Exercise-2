@@ -13,3 +13,6 @@ plot(mtcars$mpg, mtcars$disp,
 col = "green",
 main = "Scatterplot of MPG versus displacement", 
 xlab = "Miles per Gallon", ylab = "Displacement")
+
+# 
+mean(mtcars$mpg)
